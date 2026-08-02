@@ -9,5 +9,3 @@ env/
 outputs/
 tmp/
 logs/
-
-.gitignore
